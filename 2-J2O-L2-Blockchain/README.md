@@ -33,7 +33,7 @@ none
 - [JFIN Chain (Layer1)](https://jfinchain.com/)
 
 ## Relevant usage metrics 
-Can create 2,000 NFTs in single transaction.
+Can create 2,000 NFTs in a single transaction.
 
 ## Competitors, peers, or similar projects 
 (please link): unknown
@@ -105,4 +105,4 @@ For example:
 Please note that the initial 200,000 JFIN may be depleted at anytime depends on the popularity of the blockchain. If depleted, it required JFIN Chain to provide more liquidity fund for the continuation of usage.
 
 KPI
-- Can create 2,000 NFTs in single transaction.
+- Can create 2,000 NFTs in a single transaction.
