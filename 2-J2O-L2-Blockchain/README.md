@@ -66,15 +66,7 @@ Has your project previously applied for an JFIN grant? If successful, please lin
 
 ## Number of JFIN tokens requested:
 
-200,000 JFIN for liquidity once and additional 20,000 JFIN per year for development fee. Contract yearly.
-
-For example:
-1st year: requires 220,000 JFIN.
-2nd year: requires 20,000 JFIN.
-3rd year: requires 20,000 JFIN.
-4th year: requires 20,000 JFIN.
-
-Please note that the initial 200,000 JFIN may be depleted at anytime depends on the popularity of the blockchain. If depleted, it required JFIN Chain to provide more liquidity fund for the continuation of usage.
+150,000 JFIN and more when needed in the future.
 
 ## Did the project apply for or receive JFIN tokens through the Foundation Partner Fund?:
 - [ ] Yes
@@ -94,15 +86,11 @@ Please list the milestones/KPIs you expect to achieve for each initiative, consi
 Why will incentivized users and liquidity on Jfinchain remain after incentives dry up?
 Please provide any additional information that will facilitate accountability:(smart contracts addresses relevant to the proposal, relevant organizational wallet addresses, etc.)
 
-200,000 JFIN for liquidity once and additional 20,000 JFIN per year for development fee. Contract yearly.
+The proposed 150,000 JFIN will be used for two objectives. Which are:
+1. 100,000 JFIN as a transaction fee. This will last for awhile, depends on the popularity and the transaction made on J2O blockchain. 
+2. 50,000 JFIN for a liquidity pool (pair Taro-JFIN). Taro is a native currency on J2O blockchain. All transactions made on J2O blockchain needed to paid a transaction fee in Taro. This trading pair will give access to users who already has JFIN to swap for Taro. In the future, if the price of Taro-JFIN is dropped below a threshold. It might need to request more fund to control the exchange rate.
 
-For example:
-1st year: requires 220,000 JFIN.
-2nd year: requires 20,000 JFIN.
-3rd year: requires 20,000 JFIN.
-4th year: requires 20,000 JFIN.
-
-Please note that the initial 200,000 JFIN may be depleted at anytime depends on the popularity of the blockchain. If depleted, it required JFIN Chain to provide more liquidity fund for the continuation of usage.
+Please note that those funds will consume all JFIN eventually. When depleted it need to be fund again for the continuation of service.
 
 KPI
 - Can create 2,000 NFTs in a single transaction.
